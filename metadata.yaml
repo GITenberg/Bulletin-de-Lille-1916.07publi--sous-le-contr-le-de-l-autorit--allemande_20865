@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20865#Bulletin-de-Lille-1916.07publi--sous-le-contr-le-de-l-autorit--allemande
 gutenberg_bookshelf: Bulletin de Lille
 gutenberg_issued: '2007-03-20'
 gutenberg_type: Text
